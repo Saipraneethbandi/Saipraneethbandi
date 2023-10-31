@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Saipraneethbandi
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me saipraneeth0804@gmail.com
 
 <!---
